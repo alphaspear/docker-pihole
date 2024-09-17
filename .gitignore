@@ -1,0 +1,5 @@
+# Ignore etc-dnsmasq.d directory
+etc-dnsmasq.d/
+
+# Ignore etc-pihole directory
+etc-pihole/
